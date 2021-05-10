@@ -272,6 +272,9 @@ void setTIM7()
 //CONFIG SECTION//
 
 
+
+
+
 //******************************************************************************//
 // Function: configureUSART()
 // Input : None
